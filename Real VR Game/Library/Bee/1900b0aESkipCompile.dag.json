@@ -1,0 +1,348 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "ScriptAssemblies",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
+      "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
+      "Action": "\"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Assembly-CSharp.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/AssistantCoreSDKRuntime.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Facebook.Wit.Dictation.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Common.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Other.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.VoiceSDK.Mic.WebGL.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.WitAi.Conduit.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.WitAi.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.WitAi.Lib.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.WitAi.TTS.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Meta.WitAi.TTS.Samples.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.AudioManager.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.Interaction.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.Interaction.OVR.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.Interaction.OVR.Samples.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.LipSync.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.Platform.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.Spatializer.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.Voice.Demo.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Oculus.VR.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Unity.Timeline.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Unity.VisualScripting.Core.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Unity.VisualScripting.State.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Unity.XR.Management.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/Unity.XR.Oculus.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/UnityEngine.TestRunner.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/UnityEngine.UI.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/VoiceSDK.Dictation.Runtime.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies/VoiceSDK.Runtime.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator/ReportGeneratorMerged.dll\" -a=\"C:/Users/Siwakorn/Real VR Game/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Managed/UnityEngine\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/NetStandard/compat/2.1.0/shims/netfx\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/NetStandard/compat/2.1.0/shims/netstandard\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/NetStandard/Extensions/2.0.0\" -s=\"C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/NetStandard/ref/2.1.0\" -s=\"C:/Users/Siwakorn/Real VR Game/Library/ScriptAssemblies\" -s=\"C:/Users/Siwakorn/Real VR Game/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom\" -s=\"C:/Users/Siwakorn/Real VR Game/Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator\" -s=\"C:/Users/Siwakorn/Real VR Game/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Inputs": [
+        "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/netcorerun/netcorerun.exe",
+        "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
+        "Library/ScriptAssemblies/Assembly-CSharp.dll",
+        "Library/ScriptAssemblies/AssistantCoreSDKRuntime.dll",
+        "Library/ScriptAssemblies/Facebook.Wit.Dictation.dll",
+        "Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Common.dll",
+        "Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Other.dll",
+        "Library/ScriptAssemblies/Meta.VoiceSDK.Mic.WebGL.dll",
+        "Library/ScriptAssemblies/Meta.WitAi.Conduit.dll",
+        "Library/ScriptAssemblies/Meta.WitAi.dll",
+        "Library/ScriptAssemblies/Meta.WitAi.Lib.dll",
+        "Library/ScriptAssemblies/Meta.WitAi.TTS.dll",
+        "Library/ScriptAssemblies/Meta.WitAi.TTS.Samples.dll",
+        "Library/ScriptAssemblies/Oculus.AudioManager.dll",
+        "Library/ScriptAssemblies/Oculus.Interaction.dll",
+        "Library/ScriptAssemblies/Oculus.Interaction.OVR.dll",
+        "Library/ScriptAssemblies/Oculus.Interaction.OVR.Samples.dll",
+        "Library/ScriptAssemblies/Oculus.LipSync.dll",
+        "Library/ScriptAssemblies/Oculus.Platform.dll",
+        "Library/ScriptAssemblies/Oculus.Spatializer.dll",
+        "Library/ScriptAssemblies/Oculus.Voice.Demo.dll",
+        "Library/ScriptAssemblies/Oculus.VR.dll",
+        "Library/ScriptAssemblies/Unity.TextMeshPro.dll",
+        "Library/ScriptAssemblies/Unity.Timeline.dll",
+        "Library/ScriptAssemblies/Unity.VisualScripting.Core.dll",
+        "Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll",
+        "Library/ScriptAssemblies/Unity.VisualScripting.State.dll",
+        "Library/ScriptAssemblies/Unity.XR.Management.dll",
+        "Library/ScriptAssemblies/Unity.XR.Oculus.dll",
+        "Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll",
+        "Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
+        "Library/ScriptAssemblies/UnityEngine.UI.dll",
+        "Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll",
+        "Library/ScriptAssemblies/VoiceSDK.Dictation.Runtime.dll",
+        "Library/ScriptAssemblies/VoiceSDK.Runtime.dll",
+        "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll",
+        "Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator/ReportGeneratorMerged.dll",
+        "Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "Outputs": [
+        "Library/BuildPlayerData/Editor/TypeDb-All.json"
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "ScriptAssembliesAndTypeDB",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 3
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/BeeLocalCacheTool.exe"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/1900b0aESkipCompile-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "Assets/csc.rsp"
+    },
+    {
+      "File": "Assets/mcs.rsp"
+    },
+    {
+      "File": "Library/Bee/1900b0aESkipCompile-inputdata.json"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.testtools.codecoverage@1.2.3/lib/ReportGenerator/ReportGeneratorMerged.dll"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Assembly-CSharp.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/AssistantCoreSDKRuntime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Facebook.Wit.Dictation.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Common.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.VoiceSDK.Mic.Other.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.VoiceSDK.Mic.WebGL.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.WitAi.Conduit.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.WitAi.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.WitAi.Lib.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.WitAi.TTS.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Meta.WitAi.TTS.Samples.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.AudioManager.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.Interaction.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.Interaction.OVR.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.Interaction.OVR.Samples.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.LipSync.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.Platform.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.Spatializer.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.Voice.Demo.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Oculus.VR.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.TextMeshPro.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.Timeline.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.VisualScripting.Core.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.VisualScripting.Flow.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.VisualScripting.State.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.Management.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.XR.Oculus.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.TestRunner.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.UI.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/VoiceSDK.Dictation.Runtime.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/VoiceSDK.Runtime.dll"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2022.3.0f1/Editor/Data/Tools/BuildPipeline"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".pdb"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "CachedNodeOutputDirectoryName": "Library/Bee/CachedNodeOutput",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "ScriptAssemblies": 1,
+          "ScriptAssembliesAndTypeDB": 3
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/1900b0aESkipCompile.dag.json",
+  "PayloadsFile": "C:/Users/Siwakorn/Real VR Game/Library/Bee/1900b0aESkipCompile.dag.payloads",
+  "RelativePathToRoot": "../.."
+}
