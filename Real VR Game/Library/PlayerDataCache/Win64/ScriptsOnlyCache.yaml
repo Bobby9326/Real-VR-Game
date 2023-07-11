@@ -86,33 +86,33 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 16930}
+      Script: {instanceID: 16928}
     - Class: 114
-      Script: {instanceID: 17178}
+      Script: {instanceID: 17176}
     - Class: 114
-      Script: {instanceID: 17452}
+      Script: {instanceID: 17450}
     - Class: 114
-      Script: {instanceID: 17526}
+      Script: {instanceID: 17524}
     - Class: 114
-      Script: {instanceID: 20040}
+      Script: {instanceID: 20038}
     - Class: 114
-      Script: {instanceID: 20378}
+      Script: {instanceID: 20376}
     - Class: 114
-      Script: {instanceID: 20408}
+      Script: {instanceID: 20406}
     - Class: 114
-      Script: {instanceID: 21046}
+      Script: {instanceID: 21044}
     - Class: 114
-      Script: {instanceID: 21108}
+      Script: {instanceID: 21106}
     - Class: 114
-      Script: {instanceID: 21210}
+      Script: {instanceID: 21208}
     - Class: 114
-      Script: {instanceID: 21850}
+      Script: {instanceID: 21848}
     - Class: 114
-      Script: {instanceID: 21888}
+      Script: {instanceID: 21886}
     - Class: 114
-      Script: {instanceID: 22000}
+      Script: {instanceID: 21998}
     - Class: 114
-      Script: {instanceID: 23588}
+      Script: {instanceID: 23586}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -165,27 +165,27 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 16930}
+      Script: {instanceID: 16928}
     - Class: 114
-      Script: {instanceID: 17178}
+      Script: {instanceID: 17176}
     - Class: 114
-      Script: {instanceID: 17452}
+      Script: {instanceID: 17450}
     - Class: 114
-      Script: {instanceID: 17966}
+      Script: {instanceID: 17964}
     - Class: 114
-      Script: {instanceID: 20040}
+      Script: {instanceID: 20038}
     - Class: 114
-      Script: {instanceID: 20378}
+      Script: {instanceID: 20376}
     - Class: 114
-      Script: {instanceID: 20408}
+      Script: {instanceID: 20406}
     - Class: 114
-      Script: {instanceID: 21108}
+      Script: {instanceID: 21106}
     - Class: 114
-      Script: {instanceID: 21888}
+      Script: {instanceID: 21886}
     - Class: 114
-      Script: {instanceID: 22000}
+      Script: {instanceID: 21998}
     - Class: 114
-      Script: {instanceID: 24844}
+      Script: {instanceID: 24842}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -4526,4 +4526,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/EasyMode.unity
   - Assets/Scenes/OverEasyScene.unity
   playerPath: "C:/Users/Siwakorn/OneDrive/\u0E40\u0E14\u0E2A\u0E01\u0E4C\u0E17\u0E47\u0E2D\u0E1B/Build
-    Game/1.0.4/Real VR Game.exe"
+    Game/1.0.5/Real VR Game.exe"

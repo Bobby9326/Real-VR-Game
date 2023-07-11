@@ -2174,7 +2174,7 @@ MonoBehaviour:
   isStart: 0
   isFinish: 0
   score: 0
-  time: 10
+  time: 120
   startScene: {fileID: 118171396}
   playScene: {fileID: 402000022}
   scoreLB: {fileID: 428543452}
