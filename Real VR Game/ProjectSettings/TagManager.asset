@@ -8,6 +8,10 @@ TagManager:
   - Hand
   - Spawner
   - OverController
+  - LeftHandAnchor
+  - RightHandAnchor
+  - Board
+  - Line
   layers:
   - Default
   - TransparentFX

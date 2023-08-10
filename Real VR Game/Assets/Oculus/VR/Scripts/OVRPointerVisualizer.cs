@@ -18,6 +18,7 @@
  * limitations under the License.
  */
 
+using System;
 using UnityEngine;
 
 public class OVRPointerVisualizer : MonoBehaviour
@@ -37,6 +38,6 @@ public class OVRPointerVisualizer : MonoBehaviour
         linePointer.enabled = (OVRInput.GetActiveController() == OVRInput.Controller.Touch);
         Ray ray = new Ray(rayTransform.position, rayTransform.forward);
         linePointer.SetPosition(0, ray.origin);
-        linePointer.SetPosition(1, ray.origin + ray.direction * rayDrawDistance);
+        linePointer.SetPosition(1, ray.origin + ray.origin*rayDrawDistance);
     }
 }

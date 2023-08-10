@@ -9,14 +9,14 @@ public class TriggerOver : MonoBehaviour
     public float clickRate = 1.0f;
     public float nextClick = 0.0f;
 
-    OverController overController;
+    OverDrawGameController overController;
     // Start is called before the first frame update
     void Start()
     {
         if (overController == null)
         {
-            GameObject _gController = GameObject.FindGameObjectWithTag("OverController") as GameObject;
-            overController = _gController.GetComponent<OverController>();
+            GameObject _gController = GameObject.FindGameObjectWithTag("GameController") as GameObject;
+            overController = _gController.GetComponent<OverDrawGameController>();
         }
         nextClick = PlayerPrefs.GetFloat("nextClick");
     }
